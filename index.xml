@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jose Blog</title>
-    <link>https://typesAreSpaces.github.io/</link>
+    <link>https://typesarespaces.github.io/</link>
     <description>Recent content on Jose Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 00:13:58 -0600</lastBuildDate><atom:link href="https://typesAreSpaces.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:13:58 -0600</lastBuildDate><atom:link href="https://typesarespaces.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mypost</title>
-      <link>https://typesAreSpaces.github.io/posts/mypost/</link>
+      <link>https://typesarespaces.github.io/posts/mypost/</link>
       <pubDate>Tue, 11 May 2021 00:13:58 -0600</pubDate>
       
-      <guid>https://typesAreSpaces.github.io/posts/mypost/</guid>
+      <guid>https://typesarespaces.github.io/posts/mypost/</guid>
       <description>This is some content.</description>
     </item>
     
